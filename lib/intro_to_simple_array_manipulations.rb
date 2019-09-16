@@ -40,12 +40,8 @@ end
 
 using_delete(array, string)
 array.delete(string)
+end
 
-
-
-
-
-
-
-
-using_contact  
+using_delete_at(array, integar)
+array.delete_at(integar)
+end
