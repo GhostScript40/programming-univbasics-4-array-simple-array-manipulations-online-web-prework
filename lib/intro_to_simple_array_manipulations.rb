@@ -34,4 +34,17 @@ using_unique(array)
 array.unique
 end
 
+using_flatten(array)
+array.flatten
+end
+
+
+
+
+
+
+
+
+
+
 using_contact  
