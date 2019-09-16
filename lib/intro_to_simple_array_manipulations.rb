@@ -44,4 +44,4 @@ end
 
 using_delete_at(array, integar)
 array.delete_at(integar)
-endquit
+end
