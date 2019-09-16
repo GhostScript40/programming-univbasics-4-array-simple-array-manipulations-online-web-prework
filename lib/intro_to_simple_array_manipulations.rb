@@ -30,6 +30,8 @@ def using_insert(array)
 array.insert(5)
 end
 
-
+using_unique(array)
+array.unique
+end
 
 using_contact  
