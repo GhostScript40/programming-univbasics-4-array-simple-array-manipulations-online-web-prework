@@ -38,7 +38,8 @@ using_flatten(array)
 array.flatten
 end
 
-
+using_delete(array, string)
+array.delete(string)
 
 
 
