@@ -22,5 +22,5 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-using_contact  
+using_contact(array1, array2)  
 using_contact  
