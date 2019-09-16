@@ -1,9 +1,9 @@
 def using_push(array, string)
-
+array.push(string)
 end
 
 def using_unshift(array, string)
-
+array.unshift(string)
 end
 
 def using_pop(array)
@@ -19,7 +19,8 @@ array.shift
 end
 
 def shift_with_args(array)
-  array.shit(2)
+  array.shift(2)
 end
-  
+
+using_contact  
 using_contact  
